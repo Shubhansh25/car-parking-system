@@ -15,6 +15,7 @@ correct pass(12) therefore green is blinking
 
 
 
-wrong pass(02)  therefore red is blinking
+before the vehicle has left the parking ,therefore no lights are blinking 
+but after the entry of the vehicle & wrong pass(02) the red is blinking
 ![image](https://github.com/Shubhansh25/car-parking-system/assets/139395881/ccce354d-bd23-40ca-bf3a-471cae89661d)
 
